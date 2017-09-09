@@ -13,9 +13,21 @@
 
 ## CSS 类选择器  
   <div class="cls">123</div>  
+  <p class="cls">456</p>
   .cls { color:black; }
+  *.cls { color:black; }
+  p.cls { color:red; }
+  
+  .cls,.cls1
+  .cls.cls1 区别
+  class="cls cls1 cls2"
 
-## CSS ID 选择器
+## CSS ID 选择器  
+  ID选择器是唯一的，因为一个文档中，同一个id只会出现一次
+  #mostImportant {color:red; background:yellow;}  
+  
+  <h1 id="mostImportant">This is important!</h1>
+  
 
 ## CSS 属性选择器
 
@@ -28,6 +40,8 @@
 ## CSS 伪类
 
 ## CSS 伪元素
+
+## 参考地址：http://www.w3school.com.cn/css/css_selector_type.asp
 
 # 框模型
 
