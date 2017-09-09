@@ -12,10 +12,14 @@
   h2, p {color:gray;}
 
 ## CSS 类选择器  
-  &lt;div class="cls"&gt;123&lt;/div&gt;
-  &lt;p class="cls"&gt;456&lt;/p&gt;
-  .cls { color:black; }
-  *.cls { color:black; }
+  &lt;div class="cls"&gt;123&lt;/div&gt;  
+  
+  &lt;p class="cls"&gt;456&lt;/p&gt;  
+  
+  .cls { color:black; }  
+  
+  *.cls { color:black; }  
+  
   p.cls { color:red; }
   
   .cls,.cls1
@@ -23,7 +27,8 @@
   class="cls cls1 cls2"
 
 ## CSS ID 选择器  
-  ID选择器是唯一的，因为一个文档中，同一个id只会出现一次
+  ID选择器是唯一的，因为一个文档中，同一个id只会出现一次  
+  
   #mostImportant {color:red; background:yellow;}  
   
   &lt;h1 id="mostImportant"&gt;This is important!&lt;/h1&gt;
