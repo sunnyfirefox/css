@@ -34,7 +34,11 @@
   &lt;h1 id="mostImportant"&gt;This is important!&lt;/h1&gt;
   
 
-## CSS 属性选择器
+## CSS 属性选择器  
+  对标签对应拥有该属性的元素生效  
+  
+  img[alt] {border: 5px solid red;}  
+  
 
 ## CSS 后代选择器
 
