@@ -12,8 +12,8 @@
   h2, p {color:gray;}
 
 ## CSS 类选择器  
-  <div class="cls">123</div>  
-  <p class="cls">456</p>
+  &lt;div class="cls"&gt;123&lt;/div&gt;
+  &lt;p class="cls"&gt;456&lt;/p&gt;
   .cls { color:black; }
   *.cls { color:black; }
   p.cls { color:red; }
@@ -26,7 +26,7 @@
   ID选择器是唯一的，因为一个文档中，同一个id只会出现一次
   #mostImportant {color:red; background:yellow;}  
   
-  <h1 id="mostImportant">This is important!</h1>
+  &lt;h1 id="mostImportant"&gt;This is important!&lt;/h1&gt;
   
 
 ## CSS 属性选择器
