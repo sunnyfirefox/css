@@ -6,8 +6,6 @@
  
  a { font-size : 20px; }  
 
- http://www.w3school.com.cn/css/css_selector_type.asp
-
 ## CSS 选择器分组  
   一组选择器设置相同的样式  
   
