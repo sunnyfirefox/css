@@ -2,15 +2,20 @@
 # 选择器
 ## CSS元素选择器  
 以标签名命名  
-html { color: black; }  
+ html { color: black; }  
  
  a { font-size : 20px; }  
 
  http://www.w3school.com.cn/css/css_selector_type.asp
 
-## CSS 选择器分组
+## CSS 选择器分组  
+  一组选择器设置相同的样式  
+  
+  h2, p {color:gray;}
 
-## CSS 类选择器
+## CSS 类选择器  
+  <div class="cls">123</div>  
+  .cls { color:black; }
 
 ## CSS ID 选择器
 
