@@ -142,10 +142,66 @@
   </tr>
 </tbody></table>
 
-## 参考地址：http://www.w3school.com.cn/css/css_selector_type.asp
 
 # 框模型
+<img src="http://www.w3school.com.cn/i/ct_boxmodel.gif"/>
+## 内边距
+<table class="dataintable">
+  <tbody><tr>
+    <th>属性</th>
+    <th>描述</th>
+  </tr>
+  <tr>
+    <td><a href="/cssref/pr_padding.asp" title="CSS padding 属性">padding</a></td>
+    <td>简写属性。作用是在一个声明中设置元素的所内边距属性。</td>
+  </tr>
+  <tr>
+    <td><a href="/cssref/pr_padding-bottom.asp" title="CSS padding-bottom 属性">padding-bottom</a></td>
+    <td>设置元素的下内边距。</td>
+  </tr>
+  <tr>
+    <td><a href="/cssref/pr_padding-left.asp" title="CSS padding-left 属性">padding-left</a></td>
+    <td>设置元素的左内边距。</td>
+  </tr>
+  <tr>
+    <td><a href="/cssref/pr_padding-right.asp" title="CSS padding-right 属性">padding-right</a></td>
+    <td>设置元素的右内边距。</td>
+  </tr>
+  <tr>
+    <td><a href="/cssref/pr_padding-top.asp" title="CSS padding-top 属性">padding-top</a></td>
+    <td>设置元素的上内边距。</td>
+  </tr>
+</tbody></table>  
 
+## 边框
+
+## 外边距
+<table class="dataintable">
+  <tbody><tr>
+    <th>属性</th>
+    <th>描述</th>
+  </tr>
+  <tr>
+    <td><a href="/cssref/pr_margin.asp" title="CSS margin 属性">margin</a></td>
+    <td>简写属性。在一个声明中设置所有外边距属性。</td>
+  </tr>
+  <tr>
+    <td><a href="/cssref/pr_margin-bottom.asp" title="CSS margin-bottom 属性">margin-bottom</a></td>
+    <td>设置元素的下外边距。</td>
+  </tr>
+  <tr>
+    <td><a href="/cssref/pr_margin-left.asp" title="CSS margin-left 属性">margin-left</a></td>
+    <td>设置元素的左外边距。</td>
+  </tr>
+  <tr>
+    <td><a href="/cssref/pr_margin-right.asp" title="CSS margin-right 属性">margin-right</a></td>
+    <td>设置元素的右外边距。</td>
+  </tr>
+  <tr>
+    <td><a href="/cssref/pr_margin-top.asp" title="CSS margin-top 属性">margin-top</a></td>
+    <td>设置元素的上外边距。</td>
+  </tr>
+</tbody></table>
 
 # 背景和边框
 
@@ -164,3 +220,6 @@
 
 # 用户界面
 
+
+
+# 参考地址：http://www.w3school.com.cn/css/
