@@ -63,7 +63,8 @@
   &lt;p&gt;This is paragraph.&lt;/p&gt;  
   &lt;p&gt;This is paragraph.&lt;/p&gt;  
   
-## CSS 伪类
+## CSS 伪类  
+系统默认伪类
 <table class="dataintable">
   <tbody><tr>
     <th style="width:30%;">属性</th>
@@ -105,7 +106,13 @@
     <td>向带有指定 lang 属性的元素添加样式。</td>
     <td>2</td>
   </tr>
-</tbody></table>
+</tbody></table>  
+  
+  自定义伪类
+   q:lang(no) { font-size: 30px }  
+   &lt;p&gt;文字&lt;q lang="no"&gt;段落中的引用的文字&lt;/q&gt;文字&lt;/p&gt;
+   <p>文字<q lang="no">段落中的引用的文字</q>文字</p>
+
 
 ## CSS 伪元素
 
