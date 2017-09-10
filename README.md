@@ -46,11 +46,11 @@
   div h1 {color:red;}    
   &lt;div&gt;  
     
-    &lt;h1&gt;  
+    <h1>  
       
       content  
         
-    &lt;/ht&gt;  
+    </h1>  
       
   &lt;div&gt;  
   
