@@ -144,7 +144,8 @@
 
 
 # 框模型
-<img src="http://www.w3school.com.cn/i/ct_boxmodel.gif"/>
+<img src="http://www.w3school.com.cn/i/ct_boxmodel.gif"/>  
+
 ## 内边距
 <table class="dataintable">
   <tbody><tr>
@@ -201,15 +202,16 @@
     <td><a href="/cssref/pr_margin-top.asp" title="CSS margin-top 属性">margin-top</a></td>
     <td>设置元素的上外边距。</td>
   </tr>
-</tbody></table>
+</tbody></table>  
+
+## 外边距合并
+<img src="http://www.w3school.com.cn/i/ct_css_margin_collapsing_example_1.gif"/>
+
 
 # 背景和边框
 
 
 # 文本效果
-
-
-# 2D/3D 转换
 
 
 # 动画
