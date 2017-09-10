@@ -40,7 +40,20 @@
   img[alt] {border: 5px solid red;}  
   
 
-## CSS 后代选择器
+## CSS 后代选择器  
+  有父子关系的标签，通常用于一整块组件等情况。  
+  
+  div h1 {color:red;}    
+  &lt;div&gt;  
+    
+    &lt;h1&gt;  
+      
+      content  
+        
+    &lt;/ht&gt;  
+      
+  &lt;div&gt;  
+  
 
 ## CSS 子元素选择器
 
