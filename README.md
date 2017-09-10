@@ -111,10 +111,36 @@
   自定义伪类
    q:lang(no) { font-size: 30px }  
    &lt;p&gt;文字&lt;q lang="no"&gt;段落中的引用的文字&lt;/q&gt;文字&lt;/p&gt;
-   <p>文字<q lang="no">段落中的引用的文字</q>文字</p>
 
 
-## CSS 伪元素
+## CSS 伪元素  
+<table class="dataintable">
+  <tbody><tr>
+    <th style="width:30%;">属性</th>
+    <th style="width:65%;">描述</th>
+    <th style="width:5%;">CSS</th>
+  </tr>
+  <tr>
+    <td><a href="/cssref/pr_pseudo_first-letter.asp">:first-letter</a></td>
+    <td>向文本的第一个字母添加特殊样式。</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td><a href="/cssref/pr_pseudo_first-line.asp">:first-line</a></td>
+    <td>向文本的首行添加特殊样式。</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td><a href="/cssref/pr_pseudo_before.asp">:before</a></td>
+    <td>在元素之前添加内容。</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td><a href="/cssref/pr_pseudo_after.asp">:after</a></td>
+    <td>在元素之后添加内容。</td>
+    <td>2</td>
+  </tr>
+</tbody></table>
 
 ## 参考地址：http://www.w3school.com.cn/css/css_selector_type.asp
 
