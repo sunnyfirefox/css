@@ -204,24 +204,12 @@
   </tr>
 </tbody></table>  
 
-## 外边距合并
-<img src="http://www.w3school.com.cn/i/ct_css_margin_collapsing_example_1.gif"/>
+# 定位  
 
+## 相对定位
 
-# 背景和边框
+## 绝对定位
 
-
-# 文本效果
-
-
-# 动画
-
-
-# 多列布局
-
-
-# 用户界面
-
-
+## 浮动
 
 # 参考地址：http://www.w3school.com.cn/css/
