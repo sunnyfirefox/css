@@ -41,21 +41,21 @@
   
 
 ## CSS 后代选择器  
-  有父子关系的标签，通常用于一整块组件等情况。  
+  有包含关系的标签，通常用于一整块组件等情况。  
   
   div h1 {color:red;}    
   &lt;div&gt;  
-    
-    <h1>  
-      
-      content  
-        
-    </h1>  
-      
+      &lt;h1&gt; content  &lt;/h1&gt;  
   &lt;div&gt;  
   
 
 ## CSS 子元素选择器
+  有父子关系的标签，通常用于一整块组件等情况。  
+
+  div>h1 {color:red;}    
+  &lt;div&gt;  
+      &lt;h1&gt; content  &lt;/h1&gt;  
+  &lt;div&gt;  
 
 ## CSS 相邻兄弟选择器
 
