@@ -174,8 +174,6 @@
   </tr>
 </tbody></table>  
 
-## 边框
-
 ## 外边距
 <table class="dataintable">
   <tbody><tr>
